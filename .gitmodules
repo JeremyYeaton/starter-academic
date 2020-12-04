@@ -2,3 +2,7 @@
 	path = new-website
 	url = https://github.com/jeremyyeaton/new-website
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://jeremyyeaton/new-website
+	branch = main
