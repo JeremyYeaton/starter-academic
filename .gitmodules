@@ -1,0 +1,4 @@
+[submodule "new-website"]
+	path = new-website
+	url = https://github.com/jeremyyeaton/new-website
+	branch = master
