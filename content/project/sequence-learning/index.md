@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Statistical learning in noise
-subtitle: 'Examining sequence learning in baboons'
-summary: 'Examining sequence learning in baboons'
+subtitle: 'How does noise impact sequence learning in baboons?'
+summary: 'How does noise impact sequence learning in baboons?'
 authors:
 - Jeremy Yeaton
 - Arnaud Rey

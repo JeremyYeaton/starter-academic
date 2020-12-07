@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "Mr Robot"
+theme = "mr robot"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -94,10 +94,12 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "3 Place Victor Hugo", city = "Marseille", region = "France", postcode = "13001", country = "France", country_code = "FR"}
+# address = {street = "Social Sciences Plaza B", city = "Irvine", region = "CA", postcode = "92617", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "43.30525", longitude = "5.37993"}
+# coordinates = {latitude = "33.64719", longitude = "-117.83913"}
 
 # Directions for visitors to locate you.
 directions = ""#"Enter Building 1 and take the stairs to Office 200 on Floor 2"

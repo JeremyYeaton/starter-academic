@@ -37,11 +37,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/jeremyyeaton
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=LaYboq3Uafc"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,4 +61,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-The recording is available here: https://www.youtube.com/watch?v=LaYboq3Uafc
