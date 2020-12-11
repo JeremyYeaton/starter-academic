@@ -7,7 +7,7 @@ summary: "What do people's brains do if we let them read as they normally would?
 authors:
 - Jeremy Yeaton
 - Jonathan Grainger
-tags: []
+tags: [EEG, eye-tracking, co-registration, reading, naturalistic stimuli, language]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-03T22:05:12+01:00
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [POP-R]
 publishDate: '2020-12-03T21:19:49.897724Z'
 publication_types:
 - '2'

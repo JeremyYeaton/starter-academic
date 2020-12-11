@@ -8,9 +8,9 @@ authors:
 - Jeremy Yeaton
 - Arnaud Rey
 - Laure Tosatto
-tags: []
+tags: [sequence learning, baboons, comparative cognition]
 categories: []
-date: '2020-01-01'
+date: '2020-09-01'
 lastmod: 2020-12-03T22:05:12+01:00
 featured: true
 draft: false

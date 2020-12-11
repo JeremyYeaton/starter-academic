@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Parafoveal-on-foveal repetition effects in sentence reading: A co-registered
-  eye-tracking and electroencephalogram study'
+title: 'Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study'
 subtitle: ''
 summary: ''
 authors:
@@ -13,11 +12,15 @@ authors:
 - Phillip J. Holcomb
 - Jonathan Grainger
 tags:
-- '"eye-movements"'
-- '"fixation-related-potentials"'
-- '"parafoveal-on-foveal effects"'
-- '"parallel processing"'
-- '"reading"'
+- eye tracking
+- 'fixation related potentials'
+- 'parafoveal on foveal effects'
+- 'parallel processing'
+- 'reading'
+- EEG
+- co-registration
+- French
+- language
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-03T22:05:13+01:00
@@ -37,7 +40,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [POP-R]
 publishDate: '2020-12-03T21:19:50.230532Z'
 publication_types:
 - '2'
