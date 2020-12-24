@@ -8,7 +8,7 @@ authors:
 - Jeremy Yeaton
 - Stephane Dufau
 - Jonathan Grainger
-tags: [MEG, EEG, syntax, parallel processing, parafoveal-on-foveal, language]
+tags: [MEG, syntax, parallel processing, parafoveal-on-foveal, language]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-03T22:05:12+01:00
@@ -21,7 +21,7 @@ text:
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

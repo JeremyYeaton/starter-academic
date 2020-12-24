@@ -5,6 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
+# https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy
+# https://wowchemy.com/docs/managing-content/#create-a-widget-page
+
 title = "Projects"
 subtitle = ""
 

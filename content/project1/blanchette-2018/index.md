@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'English negative concord and double negation: The division of labor between syntax and pragmatics'
+title: 'English negative concord and double negation: The division of labor between
+  syntax and pragmatics'
 subtitle: ''
 summary: ''
 authors:
