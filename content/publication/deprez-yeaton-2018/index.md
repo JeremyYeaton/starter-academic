@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [negation]
-publishDate: '2020-12-03T21:19:50.541941Z'
+publishDate: '2020-12-19T21:19:50.541941Z'
 publication_types:
 - '1'
 abstract: Evidence that DN readings arise in solid NC languages more than previously thought (Déprez et al. 2015) underscore the importance of investigating the factors governing their emergence to deepen our understanding of Negative Concord. This paper examines the roles of context and prosody in disambiguating simple French transitive sentences with two NCIs (personne, rien) experimentally. French speakers were recorded reading target sentences with NCIs in NC or DN eliciting contexts followed by a verification statement judged as T/F and analyzed as context-matching or not. Context-matching targets were extracted using Praat and analyzed using ProsodyPro (Xu 2013). Sentence contour, average pitch and F0 peak value on NCIs were compared across conditions. Our results provide solid evidence that in French, context influence interpretation and NC and DN interpretations are prosodically distinguished.
