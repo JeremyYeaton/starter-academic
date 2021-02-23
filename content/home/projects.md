@@ -8,7 +8,7 @@ weight = 65  # Order that this section will appear.
 # https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy
 # https://wowchemy.com/docs/managing-content/#create-a-widget-page
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]

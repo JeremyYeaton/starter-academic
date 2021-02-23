@@ -9,7 +9,7 @@ authors:
 - Jeremy Yeaton
 - Stephane Dufau
 - Jonathan Mirault
-tags: [MEG, EEG, syntax, parallel processing, parafoveal-on-foveal, language]
+tags: [MEG, EEG, syntax, parallel processing, parafoveal-on-foveal, psycholinguistics, language]
 categories: []
 date: '2019-09-01'
 lastmod: 2020-12-03T22:05:12+01:00

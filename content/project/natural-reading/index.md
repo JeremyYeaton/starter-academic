@@ -7,12 +7,12 @@ summary: "What do people's brains do if we let them read as they normally would?
 authors:
 - Jeremy Yeaton
 - Jonathan Grainger
-tags: [EEG, eye-tracking, co-registration, reading, naturalistic stimuli, language]
+tags: [EEG, eye-tracking, co-registration, reading, naturalistic stimuli, psycholinguistics, language]
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-03T22:05:12+01:00
 featured: true
-draft: false
+draft: true
 text:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

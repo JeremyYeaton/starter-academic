@@ -8,7 +8,7 @@ Deprez & Yeaton 2021, [pre-print](https://jeremyyeaton.github.io/papers/Deprez_Y
 
 [Yeaton master thesis](https://jeremyyeaton.github.io/papers/Yeaton-2019-MasterThesis-V2_word_order.pdf)
 
-[Blanchette et al 2018](https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN.pdf)
+[Blanchette et al 2018](https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN.pdf), [abstract](https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN_abstract.pdf)
 
 [Deprez & Yeaton 2018](https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2018-RLLT14-FrenchNCandDN.pdf), [pre-print](https://jeremyyeaton.github.io/papers/lsrl_46_knockoff.pdf)
 
