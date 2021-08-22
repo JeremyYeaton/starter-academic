@@ -69,3 +69,14 @@ Judy Kroll
 Charles Torres
 Christian Navarro-Torres
 Zachary Rosen
+
+
+Tools I have used in my research:
+EEG -- ERP & mTRF; mass-univariate cluster analysis
+MEG - analysis in source space
+Behavioral paradigms
+Machine learning -- SRN, k-means, linear regression
+Modelling - glmer, lmer, GAMM
+Frequentist statistics (t-test, ANOVA, rm-anova)
+Bayesian statistics (t-test, anova, rm-anova)
+semantic vector representations
