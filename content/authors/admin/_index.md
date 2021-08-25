@@ -12,8 +12,9 @@ role: PhD Student
 organizations:
 - name:  Department of Language Science, University of California, Irvine
   url: https://www.langsci.uci.edu/
-- name: Laboratoire de Psychologie Cognitive, Aix-Marseille University & CNRS
-  url: https://lpc.univ-amu.fr/fr
+  
+#- name: Laboratoire de Psychologie Cognitive, Aix-Marseille University & CNRS
+#  url: https://lpc.univ-amu.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student interested in language and the brain.

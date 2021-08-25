@@ -11,7 +11,7 @@ location: Virtual
 #  postcode: '94305'
 #  country: United States
 projects: []
-summary: Presentation about MEG results at Psychonomics 2020.
+summary: Slide slam talk about picture naming deficits in adults with aphasia at SNL21.
 abstract: "**Introduction.** Picture naming deficits are a common symptom of stroke-induced aphasia. The Philadelphia Naming Test (PNT; Roach et al. 1996) is a commonly used tool in assessment of such deficits. The test comprises 175 line-drawings of concrete imageable nouns, which a participant is asked to name out loud. The first and last (if more than one was made) naming attempt are recorded. A clinician codes the responses by type (e.g.: correct, semantically related, neologism). While previous research has primarily focused on the first complete response, by taking a closer look at secondary attempts to correct errors, we can gain insight into error detection and correction abilities in aphasia. In this work we examine what variables impact error detection (operationalized as whether an attempt to correct was made), and correction attempt outcomes in two cohorts of participants with aphasia. We find that rather than demographic variables, cognitive psychometric model parameters can best predict naming error detection and correction.\\
 
 **Participants.** Our population includes a total of 156 participants across two cohorts for whom we had complete datasets (n=70 [31F, mean age=60.73 (11.7)] & n=86 [35F, mean age=60.79 (11.1)] respectively).\\
