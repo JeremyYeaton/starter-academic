@@ -30,7 +30,7 @@ tags: [statistical learning, associative learning, animal cognition, sequence le
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:

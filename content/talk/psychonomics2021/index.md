@@ -30,7 +30,7 @@ tags: [statistical learning, associative learning, animal cognition, sequence le
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -39,9 +39,9 @@ links:
   name: Follow
   url: https://twitter.com/jeremyyeaton
 url_code: ""
-url_pdf: ""
+url_pdf: "https://jeremyyeaton.github.io/papers/Yeaton_et_al-Psychonomics21-Simple_Associations.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/U0Czq8dC38k"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -55,7 +55,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+projects: ['sequence-learning']
 
 # Enable math on this page?
 math: true
