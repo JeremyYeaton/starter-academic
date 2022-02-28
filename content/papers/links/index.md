@@ -21,6 +21,14 @@ Dufau et al. 2021, [manuscript](https://jeremyyeaton.github.io/papers/Dufau_et_a
 [Yeaton undergrad thesis](https://jeremyyeaton.github.io/papers/Yeaton-2015-UndergradThesis-Context_and_Prosody.pdf)
 
 
+**Course papers**
+
+[LSCI 259 working paper](https://jeremyyeaton.github.io/papers/Yeaton_LSCI_259_Sequence_learning_model.pdf)
+
+[B06 final paper](https://jeremyyeaton.github.io/papers/Yeaton_b06_final.pdf)
+
+
+
 **Articles about me**
 
 https://www.socsci.uci.edu/newsevents/news/2021/2021-11-12-lang-sci-psychonomic-society.php
