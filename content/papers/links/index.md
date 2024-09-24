@@ -1,10 +1,18 @@
-Snell et al. 2021, [manuscript](https://jeremyyeaton.github.io/papers/Snell_et_al-2021-manuscript-POF_syntax.pdf)
+**Unpublished manuscripts**
 
-Yeaton et al. 2021, [abstract](https://jeremyyeaton.github.io/papers/Yeaton_et_al-SNL21_Abstract-Error_detection.pdf)
+Yeaton 2024 review, [manuscript PDF](https://jeremyyeaton.github.io/papers/yeaton2024neurobiology_preprint.pdf), [preprint](https://osf.io/preprints/psyarxiv/xku24)
+
+**Published papers**
+
+[Dufau et al. 2024, Neuropsychologia](https://jeremyyeaton.github.io/papers/dufau2024sentence.pdf)
+
+[Yeaton et al. 2023, L & B](https://jeremyyeaton.github.io/papers/yeaton2023simple.pdf)
+
+[Yeaton et al. 2023 LSA](https://jeremyyeaton.github.io/papers/yeaton2023gender.pdf)
+
+[Snell et al. 2023](https://jeremyyeaton.github.io/papers/snell2023parallel.pdf)
 
 [Yeaton & Grainger 2022](https://jeremyyeaton.github.io/papers/Yeaton_Grainger-2022-Acta_Psychologica-Letter_in_string.pdf)
-
-Dufau et al. 2021, [manuscript](https://jeremyyeaton.github.io/papers/Dufau_et_al-2021-manuscript-Sentence_superiority.pdf)
 
 [Deprez & Yeaton 2022](https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2022-Glossa-NC_Prosody_Frnch_mult_neg.pdf)
 
@@ -12,22 +20,28 @@ Dufau et al. 2021, [manuscript](https://jeremyyeaton.github.io/papers/Dufau_et_a
 
 [Mirault et al 2020](https://jeremyyeaton.github.io/papers/Mirault_et_al-2020-Psychophysiology-POF_repetition.pdf)
 
-[Yeaton master thesis](https://jeremyyeaton.github.io/papers/Yeaton-2019-MasterThesis-V2_word_order.pdf)
-
 [Blanchette et al 2018](https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN.pdf), [abstract](https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN_abstract.pdf)
 
 [Deprez & Yeaton 2018](https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2018-RLLT14-FrenchNCandDN.pdf), [manuscript](https://jeremyyeaton.github.io/papers/lsrl_46_knockoff.pdf)
 
-[Yeaton undergrad thesis](https://jeremyyeaton.github.io/papers/Yeaton-2015-UndergradThesis-Context_and_Prosody.pdf)
 
 
 **Course papers**
+
+[LSCI CADA PDF](https://jeremyyeaton.github.io/papers/Yeaton_CADA_submitted.pdf)
+
+[LSCI concentration exam PDF](https://jeremyyeaton.github.io/papers/neurobio_syntax_conc_preprint.pdf), [preprint](https://osf.io/preprints/psyarxiv/jqekf)
 
 [LSCI 259 working paper](https://jeremyyeaton.github.io/papers/Yeaton_LSCI_259_Sequence_learning_model.pdf)
 
 [B06 final paper](https://jeremyyeaton.github.io/papers/Yeaton_b06_final.pdf)
 
+[Yeaton master thesis](https://jeremyyeaton.github.io/papers/Yeaton-2019-MasterThesis-V2_word_order.pdf)
 
+[Yeaton undergrad thesis](https://jeremyyeaton.github.io/papers/Yeaton-2015-UndergradThesis-Context_and_Prosody.pdf)
+
+**Conference abstracts**
+Yeaton et al. 2021, [abstract](https://jeremyyeaton.github.io/papers/Yeaton_et_al-SNL21_Abstract-Error_detection.pdf)
 
 **Articles about me**
 

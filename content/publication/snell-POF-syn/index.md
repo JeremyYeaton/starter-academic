@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study'
+title: 'Parallel word reading revealed by fixation-related
+brain potentials'
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Mirault
+- Joshua Snell
 - Jeremy Yeaton
-- Fanny Broqua
-- Stéphane Dufau
-- Phillip J. Holcomb
+- Jonathan Mirault
 - Jonathan Grainger
 tags:
 - eye tracking
@@ -22,10 +21,10 @@ tags:
 - French
 - language
 categories: []
-date: '2020-01-01'
-lastmod: 2020-12-03T22:05:13+01:00
-featured: true
-draft: true
+date: '2023-01-01'
+lastmod: 2023-03-03T22:05:13+01:00
+featured: false
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,11 +40,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [POP-R]
-publishDate: '2020-12-03T21:19:50.230532Z'
+publishDate: '2023-03-03T21:19:50.230532Z'
 publication_types:
 - '2'
-abstract: 'When reading, can the next word in the sentence (word n + 1) influence how you read the word you are currently looking at (word n)? Serial models of sentence reading state that this generally should not be the case, whereas parallel models predict that this should be the case. Here we focus on perhaps the simplest and the strongest Parafoveal-on-Foveal (PoF) manipulation: word n + 1 is either the same as word n or a different word. Participants read sentences for comprehension and when their eyes left word n, the repeated or unrelated word at position n + 1 was swapped for a word that provided a syntactically correct continuation of the sentence. We recorded electroencephalogram and eye-movements, and time-locked the analysis of fixation-related potentials (FRPs) to fixation of word n. We found robust PoF repetition effects on gaze durations on word n, and also on the initial landing position on word n. Most important is that we also observed significant effects in FRPs, reaching significance at 260 ms post-fixation of word n. Repetition of the target word n at position n + 1 caused a widely distributed reduced negativity in the FRPs. Given the timing of this effect, we argue that it is driven by orthographic processing of word n + 1, while readers were still looking at word n, plus the spatial integration of orthographic information extracted from these two words in parallel.'
-publication: '*Psychophysiology*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13553
-doi: 10.1111/psyp.13553
+abstract: "During reading, the brain is confronted with many relevant objects at once. But does lexical processing occur for multiple words simultaneously? Cognitive science has yet to answer this prominent question. Recently it has been argued that the issue warrants supplementing the field's traditional toolbox (response times, eye-tracking) with neuroscientific techniques (EEG, fMRI). Indeed, according to the OB1-reader model, upcoming words need not impact oculomotor behavior per se, but parallel processing of these words must nonetheless be reflected in neural activity. Here we combined eye-tracking with EEG, time-locking the neural window of interest to the fixation on target words in sentence reading. During these fixations, we manipulated the identity of the subsequent word so that it posed either a syntactically legal or illegal continuation of the sentence. In line with previous research, oculomotor measures were unaffected. Yet, syntax impacted brain potentials as early as 100 ms after the target fixation onset. Given the EEG literature on syntax processing, the presently observed timings suggest parallel word reading. We reckon that parallel word processing typifies reading, and that OB1-reader offers a good platform for theorizing about the reading brain."
+publication: '*Cortex*'
+url_pdf: https://jeremyyeaton.github.io/papers/snell2023parallel.pdf
+doi: 10.1016/j.cortex.2023.02.004
 ---
