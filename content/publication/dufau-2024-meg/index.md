@@ -15,7 +15,7 @@ tags: [MEG, French, language, reading, parallel processing]
 categories: []
 date: '2024-04-10'
 lastmod: 2024-4-10T19:37:52+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

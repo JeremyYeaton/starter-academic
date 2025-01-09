@@ -1,6 +1,10 @@
 **Unpublished manuscripts**
 
-Yeaton 2024 review, [manuscript PDF](https://jeremyyeaton.github.io/papers/yeaton2024neurobiology_preprint.pdf), [preprint](https://osf.io/preprints/psyarxiv/xku24)
+Fahey 2025 Cinderella, [manuscript PDF](https://jeremyyeaton.github.io/papers/fahey2025objective_preprint.pdf), [preprint](https://doi.org/10.31234/osf.io/7jw62)
+
+Yeaton 2025 Aligning review, [manuscript PDF](https://jeremyyeaton.github.io/papers/yeaton2025aligning_preprint.pdf), [preprint](https://doi.org/10.31234/osf.io/ydj9z)
+
+Yeaton 2025 review, [manuscript PDF](https://jeremyyeaton.github.io/papers/yeaton2025neurobiology_preprint.pdf), [preprint](https://osf.io/preprints/psyarxiv/xku24)
 
 **Published papers**
 

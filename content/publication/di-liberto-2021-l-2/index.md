@@ -16,7 +16,7 @@ tags: [EEG, L2, bilingualism, naturalistic stimuli, speech, decoding, English, C
 categories: []
 date: '2021-01-01'
 lastmod: 2020-12-24T16:39:37+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

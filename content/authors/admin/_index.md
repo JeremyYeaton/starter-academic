@@ -6,7 +6,7 @@ title: Jeremy D. Yeaton
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -83,7 +83,7 @@ user_groups:
 I'm a PhD student in Language Science at the University of California, Irvine. I'm generally interested in how language--particularly syntax--is stored, structured, and processed in the brain. My main question is whether sentence production and comprehension rely on identical, distinct, or partially shared neural systems. I use a mixed-methods approach which involves a combination of quantitative, qualitative, computational, and neuroimaging methods.
 I am advised by Greg Hickok at UC Irvine, and William Matchin at the University of South Carolina.
 
-**I am looking for postdoc positions in the cognitive neurobiology of language to start fall 2025. If you think that I would be a good fit for your lab, please send me an email!**
+**I am looking for postdoc positions in the cognitive neurobiology of language to start Fall 2025. If you think that I would be a good fit for your lab, please send me an email!**
 
 <!-- At the moment, they're looking at the lemma level (i.e.: the representation of words in the brain before you put sounds to them). They also have collaborators around the world looking at anything from theoretical syntax to baboon memory. -->
 
